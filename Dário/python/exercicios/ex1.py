@@ -6,3 +6,5 @@ minutos = resto // 60
 segundo = resto % 60
 
 print(f"segundoss equivalem a {horas}h {minutos}m {segundos}s")
+
+print(f"segundoss equivalem a {horas}h {minutos}m {segundos}s")
